@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on DDoS defense
 - 💬 Ask me about IT jobs, I'm hiring! ;)
-- 📫 How to reach me: twitter
 - ⚡ Fun fact: I commute to work by 🛹
 
 <p align="center">
