@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I commute to work by 🛹
 
 <p align="center">
-<a href="https://github.com/craig"><img src="https://img.shields.io/github/followers/cedi.svg?label=GitHub&style=social" alt="GitHub"></a>
-<a href="https://twitter.com/dercraig"><img src="https://img.shields.io/twitter/follow/c3di1?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://github.com/craig"><img src="https://img.shields.io/github/followers/craig.svg?label=GitHub&style=social" alt="GitHub"></a>
+<a href="https://twitter.com/dercraig"><img src="https://img.shields.io/twitter/follow/craig?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/stefan-behte-221188104/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   
