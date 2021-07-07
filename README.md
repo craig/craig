@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on writing stuff about DDoS down
+- 🔭 I’m currently writing stuff about DDoS
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on DDoS defense
 - 💬 Ask me about IT jobs, I'm hiring! ;)
