@@ -11,3 +11,4 @@
 <a href="https://twitter.com/dercraig"><img src="https://img.shields.io/twitter/follow/dercraig?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/stefan-behte-221188104/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   
+![](https://github-readme-stats.vercel.app/api?username=craig&show_icons=true&hide_border=true)
