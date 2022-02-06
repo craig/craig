@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently writing stuff about DDoS
 - 🌱 I’m currently learning a little golang
-- 👯 I’m looking to collaborate on DDoS defense
 - 💬 Ask me about IT jobs, I'm hiring! ;)
 - ⚡ Fun fact: I commute to work by 🛹
 
