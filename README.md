@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently writing stuff about DDoS
+- 🔭 I’m writing stuff about DDoS for fun -read my medium blog posts about Testing DDoS tools: ![](https://medium.com/@dercraig)
 - 🌱 I’m currently learning a little golang
 - 💬 Ask me about IT jobs, I'm hiring! ;)
 - ⚡ Fun fact: I commute to work by 🛹
