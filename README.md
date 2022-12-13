@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m writing stuff about DDoS for fun - read my medium posts about testing DDoS tools: https://medium.com/@dercraig
+- 🔭 I’m interested in Security - read my medium posts about testing DDoS tools: https://medium.com/@dercraig
 - 🌱 I’m currently learning a little golang
-- 💬 Ask me about IT jobs, I'm hiring! ;)
+- 🖧 I work in IT / hosting as Head of a team of 25
+- 💬 Ask me about jobs, I'm hiring! ;)
 - ⚡ Fun fact: I commute to work by 🛹
 
 <p align="center">
